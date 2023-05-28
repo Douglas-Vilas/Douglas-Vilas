@@ -1,5 +1,5 @@
 - 👋 Olá! Eu sou o @Douglas-Vilas
-- 👀 Estou interessado em: Desenvolvimento Mobile iOS e Desenvolvimento Mobile Android
+- 👀 Estou interessado em: Desenvolvimento Mobile iOS, Desenvolvimento Mobile Android, Análise de Dados e IA.
 - 🌱 Estudando Kotlin e Java
 - 📫 email: douglas_vilass@hotmail.com
 
